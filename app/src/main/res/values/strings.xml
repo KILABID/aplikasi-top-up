@@ -17,5 +17,5 @@
     <string name="title_user">User</string>
     <string name="masukkan_user_id">Masukkan User ID</string>
     <string name="panduan_1">Selamat datang di panduan pembelian produk! Produk ini merupakan pilihan yang tepat untuk kebutuhan Anda. Berikut adalah langkah-langkah untuk melakukan pembelian:</string>
-    <string name="panduan_2">Langkah 1: Kunjungi halaman kategori produk yang ingin dibeli \nLangkah 2: Pilih produk yang ingin di beli\nLangkah 3: Pilih jumlah produk yang ingin dibeli\nLangkah 4: Lakukan pembayaran\nLangkah 5: Silahkan tunggu sampai produk dikirimkan (Produk akan dikirimkan dalam 1 x 24 jam apabila produk tidak dikirimkan silahkan kunjungi bantuan)</string>
+    <string name="panduan_2">Langkah 1: Kunjungi halaman kategori produk yang ingin dibeli \nLangkah 2: Pilih produk yang ingin di beli\nLangkah 3: Pilih jumlah produk yang ingin dibeli\nLangkah 4: Lakukan pembayaran\nLangkah 5: Silahkan tunggu sampai produk dikirimkan (Produk akan dikirimkan dalam 1 x 24 jam apabila produk tidak dikirimkan silahkan kunjungi bantuan)\nPenting!!\nUntuk pembelian voucher wallet, kode akan dikirimkan ke email pengguna pastikan anda sudah memasukkan email anda</string>
 </resources>

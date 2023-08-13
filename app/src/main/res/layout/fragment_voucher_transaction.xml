@@ -6,12 +6,23 @@
     tools:context=".Voucher.VoucherTransaction">
 
     <!-- TODO: Update blank fragment layout -->
-    <ListView
-        android:layout_marginTop="20dp"
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/lvKomputer"
-        android:scrollbars="vertical"/>
+        android:orientation="vertical"
+        android:nestedScrollingEnabled="true">
+
+
+        <ListView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:nestedScrollingEnabled="true"
+            android:id="@+id/lvKomputer"
+            android:scrollbars="vertical"/>
+
+    </RelativeLayout>
+
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"

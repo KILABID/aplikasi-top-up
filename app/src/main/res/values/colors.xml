@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#121010</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#78C1F3</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="s">#7895CB</color>
+    <color name="gold">#AC8E15</color>
+</resources>
